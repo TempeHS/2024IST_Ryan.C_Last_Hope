@@ -2,7 +2,7 @@
 
 ## Overview
 
-"Humans have destroyed too much of the forest... You are... it's Last Hope..." <br/> Last Hope is a game that spreads awareness of deforestation. Enemies spawn from the right side and walks towards a tree. They will then start destroying the tree and move on to the next tree. A healthbar of the entire forest will deplete as trees get destroyed. The game is over when the healthbar inevitably becomes empty and all trees are destroyed. The aim of the player is to defeat the enemies before they destroy every tree. This can be done by attacking the enemies with either melee or ranged attacks. A points system is also in place, gaining 10 points for each enemy defeated. When the game is over, a screen will show your points for that game and players can compare against each other.
+"Humans have destroyed too much of the forest... You are... its Last Hope..." <br/> Last Hope is a game that spreads awareness of deforestation. Enemies spawn from the right side and walks towards a tree. They will then start destroying the tree and move on to the next tree. A healthbar of the entire forest will deplete as trees get destroyed. The game is over when the healthbar inevitably becomes empty and all trees are destroyed. The aim of the player is to defeat the enemies before they destroy every tree. This can be done by attacking the enemies with either melee or ranged attacks. A points system is also in place, gaining 10 points for each enemy defeated. When the game is over, a screen will show your points for that game and players can compare against each other.
 
 ## Video
 
